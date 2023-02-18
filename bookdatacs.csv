@@ -1,0 +1,104 @@
+﻿reader_id,book_title,page_count,finish,book_category
+1,The Great Gatsby,180,yes,Fiction
+2,The Catcher in the Rye,214,no,Fiction
+3,To Kill a Mockingbird,281,yes,Fiction
+4,The Grapes of Wrath,436,no,Fiction
+5,The Hobbit,295,yes,Fantasy
+6,Lord of the Flies,182,no,Fiction
+7,The Hunger Games,374,yes,Fiction
+8,Animal Farm,144,no,Fiction
+9,The Alchemist,197,yes,Fiction
+10,The Lord of the Rings,1178,no,Fantasy
+11,1984,328,yes,Fiction
+12,Pride and Prejudice,227,no,Fiction
+13,The Kite Runner,371,yes,Fiction
+14,The Picture of Dorian Gray,222,no,Fiction
+15,The Diary of a Young Girl,267,yes,Non-Fiction
+16,The Bell Jar,245,no,Fiction
+17,Of Mice and Men,112,yes,Fiction
+18,Brave New World,268,no,Fiction
+19,The Cat in the Hat,61,yes,Children's Literature
+20,The Little Prince,80,no,Fiction
+21,The Giving Tree,32,yes,Children's Literature
+22,Where the Wild Things Are,48,no,Children's Literature
+23,The Fault in Our Stars,313,yes,Fiction
+24,The Chronicles of Narnia,764,no,Fantasy
+25,The Lord of the Rings,1178,yes,Fantasy
+26,The Hobbit,295,no,Fantasy
+27,The Hunger Games,374,yes,Fiction
+28,Animal Farm,144,no,Fiction
+29,The Alchemist,197,yes,Fiction
+30,The Catcher in the Rye,214,no,Fiction
+31,To Kill a Mockingbird,281,yes,Fiction
+32,The Grapes of Wrath,436,yes,Fiction
+33,The Great Gatsby,180,no,Fiction
+34,The Kite Runner,371,no,Fiction
+35,The Picture of Dorian Gray,222,yes,Fiction
+36,Pride and Prejudice,227,no,Fiction
+37,The Fault in Our Stars,313,no,Fiction
+38,The Bell Jar,245,yes,Fiction
+39,Of Mice and Men,112,no,Fiction
+40,Brave New World,268,yes,Fiction
+41,The Giving Tree,32,no,Children's Literature
+42,Where the Wild Things Are,48,yes,Children's Literature
+43,The Cat in the Hat,61,no,Children's Literature
+44,The Little Prince,80,yes,Fiction
+45,The Diary of a Young Girl,267,no,Non-Fiction
+46,The Lord of the Rings,1178,yes,Fantasy
+47,The Hobbit,295,no,Fantasy
+48,The Hunger Games,374,yes,Fiction
+49,Animal Farm,144,no,Fiction
+50,The Alchemist,197,yes,Fiction
+51,The Catcher in the Rye,214,no,Fiction
+52,To Kill a Mockingbird,281,yes,Fiction
+53,The Grapes of Wrath,436,no,Fiction
+54,The Great Gatsby,180,yes,Fiction
+55,The Kite Runner,371,no,Fiction
+56,The Picture of Dorian Gray,222,yes,Fiction
+57,Pride and Prejudice,227,no,Fiction
+58,The Fault in Our Stars,313,no,Fiction
+59,The Bell Jar,245,yes,Fiction
+60,Of Mice and Men,112,no,Fiction
+61,Brave New World,268,yes,Fiction
+62,The Giving Tree,32,no,Children's Literature
+63,Where the Wild Things Are,48,yes,Children's Literature
+64,The Cat in the Hat,61,no,Children's Literature
+65,The Little Prince,80,yes,Fiction
+66,The Diary of a Young Girl,267,no,Non-Fiction
+67,Harry Potter and the Sorcerer's Stone,309,yes,Fantasy
+68,Charlotte's Web,184,no,Children's Literature
+70,The Adventures of Huckleberry Finn,224,no,Fiction
+71,The Outsiders,192,yes,Fiction
+72,Watership Down,471,no,Fiction
+73,A Wrinkle in Time,208,yes,Fantasy
+74,The Chronicles of Narnia,764,no,Fantasy
+75,The Lord of the Rings,1178,yes,Fantasy
+76,The Hobbit,295,no,Fantasy
+77,The Hunger Games,374,yes,Fiction
+78,Animal Farm,144,no,Fiction
+79,The Alchemist,197,yes,Fiction
+80,The Catcher in the Rye,214,no,Fiction
+81,To Kill a Mockingbird,281,yes,Fiction
+82,The Grapes of Wrath,436,yes,Fiction
+83,The Great Gatsby,180,no,Fiction
+84,The Kite Runner,371,no,Fiction
+85,The Picture of Dorian Gray,222,yes,Fiction
+86,Pride and Prejudice,227,no,Fiction
+87,The Fault in Our Stars,313,no,Fiction
+88,The Bell Jar,245,yes,Fiction
+89,Of Mice and Men,112,no,Fiction
+90,Brave New World,268,yes,Fiction
+91,The Giving Tree,32,no,Children's Literature
+92,Where the Wild Things Are,48,yes,Children's Literature
+93,The Cat in the Hat,61,no,Children's Literature
+94,The Little Prince,80,yes,Fiction
+95,The Diary of a Young Girl,267,no,Non-Fiction
+96,The Lord of the Rings,1178,yes,Fantasy
+97,The Hobbit,295,no,Fantasy
+98,The Hunger Games,374,yes,Fiction
+99,Animal Farm,144,no,Fiction
+100,The Alchemist,197,yes,Fiction
+101,The Catcher in the Rye,214,no,Fiction
+102,To Kill a Mockingbird,281,yes,Fiction
+103,The Grapes of Wrath,436,no,Fiction
+104,The Great Gatsby,180,yes,Fiction
